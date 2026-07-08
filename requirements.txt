@@ -2,6 +2,8 @@ numpy==1.25.0
 pandas
 numpy
 datetime
-#plotly.express
-#seaborn
-#matplotlib.pyplot
+matplotlib
+
+# matplotlib.pyplot
+# plotly.express
+# seaborn
