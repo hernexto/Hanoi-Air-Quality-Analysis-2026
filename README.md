@@ -2,7 +2,9 @@
 
 Project forked.
 
-DATA STILL FROM 2024
+DATA and graphs updated to 2025-2026 before petrol RON95 changed to E10
+
+Data analysis and texts are not updated!!!
 
 ======================== DATA STILL FROM PREVIOUS PROJECT ========================
 
