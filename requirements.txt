@@ -3,6 +3,8 @@ pandas
 numpy
 datetime
 matplotlib
+plotly
+seaborn
 
 # matplotlib.pyplot
 # plotly.express
