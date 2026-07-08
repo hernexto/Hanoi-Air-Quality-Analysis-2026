@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hernexto/Hanoi-Air-Quality-Analysis-2026/HEAD)
+
 Project forked.
 
 DATA STILL FROM 2024
