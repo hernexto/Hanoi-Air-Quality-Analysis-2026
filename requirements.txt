@@ -1,7 +1,7 @@
 numpy==1.25.0
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import datetime
-import plotly.express as px
-import seaborn as sns
+pandas
+numpy
+matplotlib.pyplot
+datetime
+plotly.express
+seaborn
